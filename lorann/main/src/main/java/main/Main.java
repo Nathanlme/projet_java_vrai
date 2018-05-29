@@ -21,7 +21,6 @@ public abstract class Main {
      *            the arguments
      */
     public static void main(final String[] args) {
-    	int g;
         final ControllerFacade controller = new ControllerFacade(new ViewFacade(), new ModelFacade());
 
         try {
