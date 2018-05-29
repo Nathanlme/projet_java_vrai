@@ -6,7 +6,7 @@ import controller.ControllerFacade;
 import model.ModelFacade;
 import view.ViewFacade;
 
-/**BONSOIR GUIGUI
+/**BONSOIR LES GENS BON
  * <h1>The Class Main.</h1>
  *
  * @author Jean-Aymeric DIET jadiet@cesi.fr
